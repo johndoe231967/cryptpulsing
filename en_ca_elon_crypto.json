@@ -1,0 +1,91 @@
+[
+    {
+        "name": "en_elon_cbs_1",
+        "action": "Change your life today!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_cbs_1.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "en_elon_cbs_2",
+        "action": "Change your life today!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_cbs_2.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "en_elon_quantum_1",
+        "action": "Join us and make money!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_1.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "en_elon_quantum_2",
+        "action": "Join us and make money!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_2.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "en_elon_quantum_3",
+        "action": "Join us and make money!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_3.jpeg?raw=true",
+                "mime": "image/jpeg"
+            }
+        ]
+    },
+    {
+        "name": "en_elon_quantum_4",
+        "action": "Join us and make money!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_4.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "en_elon_quantum_2",
+        "action": "Join us and make money!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_5.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    }, 
+    {
+        "name": "en_quantum_1",
+        "action": "Join us and make money!",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_quantum_1.jpeg?raw=true",
+                "mime": "image/jpeg"
+            }
+        ]
+    }
+   
+]

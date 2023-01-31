@@ -1,0 +1,47 @@
+[
+    {
+        "name": "es_elon_crypto_01",
+        "action": "Únete al programa y gana",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/Cryptopulsing/crypto/blob/main/es_elon_crypto_01.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "es_elon_crypto_02",
+        "action": "Únete al programa y gana",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/Cryptopulsing/crypto/blob/main/es_elon_crypto_02.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "es_elon_crypto_03",
+        "action": "Únete al programa y gana",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/Cryptopulsing/crypto/blob/main/es_elon_crypto_03.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    },
+    {
+        "name": "es_elon_crypto_04",
+        "action": "Únete al programa y gana",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/Cryptopulsing/crypto/blob/main/es_elon_crypto_04.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    }
+
+]
