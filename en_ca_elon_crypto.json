@@ -5,7 +5,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_cbs_1.mp4?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_cbs_1.mp4?raw=true",
                 "mime": "video/mp4"
             }
         ]
@@ -16,7 +16,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_cbs_2.mp4?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_cbs_2.mp4?raw=true",
                 "mime": "video/mp4"
             }
         ]
@@ -27,7 +27,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_1.mp4?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_quantum_1.mp4?raw=true",
                 "mime": "video/mp4"
             }
         ]
@@ -38,7 +38,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_2.mp4?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_quantum_2.mp4?raw=true",
                 "mime": "video/mp4"
             }
         ]
@@ -49,7 +49,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_3.jpeg?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_quantum_3.jpeg?raw=true",
                 "mime": "image/jpeg"
             }
         ]
@@ -60,7 +60,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_4.mp4?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_quantum_4.mp4?raw=true",
                 "mime": "video/mp4"
             }
         ]
@@ -71,7 +71,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_elon_quantum_5.mp4?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_elon_quantum_5.mp4?raw=true",
                 "mime": "video/mp4"
             }
         ]
@@ -82,7 +82,7 @@
         "priority": "1",
         "media": [
             {
-                "url": "https://github.com/johndoe231967/cryptpulsing.git/blob/main/en_quantum_1.jpeg?raw=true",
+                "url": "https://github.com/johndoe231967/cryptpulsing/blob/main/en_quantum_1.jpeg?raw=true",
                 "mime": "image/jpeg"
             }
         ]
